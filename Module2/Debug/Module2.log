@@ -1,0 +1,3 @@
+﻿  main.c
+f:\code\module2\main.c(63): warning C4552: '>>': operator has no effect; expected operator with side-effect
+  Module2.vcxproj -> F:\Code\Module2\Debug\Module2.exe
